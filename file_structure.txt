@@ -1,0 +1,52 @@
+📁 GujTrip/    
+├──    📁 backend/
+│   ├── 📄 backend.py
+│   └── 📁 media/
+├── 📁 GujTrip/
+│   └── 📁 components/
+│       ├── 📄 HistoryScreen.jsx
+│       ├── 📄 HomeScreen.jsx
+│       ├── 📄 HotelScreen.jsx
+│       ├── 📄 LoginScreen.jsx
+│       ├── 📄 MapScreen.jsx
+│       ├── 📄 OtpScreen.jsx
+│       ├── 📄 PlaceDetailsScreen.jsx
+│       ├── 📄 PlanDisplayScreen.jsx
+│       ├── 📄 PlanningScreen.jsx
+│       ├── 📄 ProfileScreen.jsx
+│       ├── 📄 Search.jsx
+│       ├── 📄 SocialScreen.jsx
+│       ├── 📄 TripPlannerScreen.jsx
+│       ├── 📄 VirtualViewScreen.jsx
+│       ├── 📄 firebase.js
+│       ├── 📄 logout.jsx
+│       ├── 📄 planFormScreen.jsx
+│       ├── 📁 media/
+│       └── 📁 ui/
+│           ├── 📄 LoadingSpinner.jsx
+│           ├── 📄 ThemedButton.jsx
+│           ├── 📄 ThemedCard.jsx
+│           └── 📄 ThemedTextInput.jsx
+└── 📁 web/
+    └── 📁 src/
+        ├── 📄 App.jsx
+        ├── 📁 components/
+        │   ├── 📄 Feedback.css
+        │   ├── 📄 Feedback.jsx
+        │   ├── 📄 History.css 
+        │   ├── 📄 History.jsx 
+        │   ├── 📄 Home.css 
+        │   ├── 📄 Home.jsx 
+        │   ├── 📄 Hotel.css
+        │   ├── 📄 Hotel.jsx
+        │   ├── 📄 Login.css
+        │   ├── 📄 Login.jsx
+        │   ├── 📄 ManagePlace.css 
+        │   ├── 📄 ManagePlace.jsx 
+        │   ├── 📄 Navbar.jsx 
+        │   ├── 📄 View.css 
+        │   └── 📄 View.jsx 
+        ├── 📄 firebase.js 
+        ├── 📄 index.css 
+        ├── 📄 index.js 
+        └── 📄 theme.js 

@@ -1,0 +1,4 @@
+# Ignore sensitive files
+backend/firebase-config.json
+backend/backend.py
+backend/.env
